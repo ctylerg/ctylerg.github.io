@@ -1,7 +1,23 @@
+body {
+  margin: 0;
+}
 header {
   background: url(https://clevelandwill.files.wordpress.com/2013/11/cleveland_skyline.jpg?w=650) no-repeat;
   background-size: cover;
   height: 360px
+}
+
+#map {
+  background-color: rgb(197, 187, 187);
+  margin: -1;
+}
+.goto {
+  display: inline;
+  background: 'grey';
+}
+
+a{
+  width: 60px;
 }
 
 section {
