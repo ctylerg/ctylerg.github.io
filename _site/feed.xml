@@ -6,8 +6,8 @@
 </description>
     <link>https://ctylerg.github.io/</link>
     <atom:link href="https://ctylerg.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Jun 2015 14:06:20 -0500</pubDate>
-    <lastBuildDate>Sat, 06 Jun 2015 14:06:20 -0500</lastBuildDate>
+    <pubDate>Sat, 06 Jun 2015 14:57:03 -0500</pubDate>
+    <lastBuildDate>Sat, 06 Jun 2015 14:57:03 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -51,23 +51,6 @@
       </item>
     
       <item>
-        <title>Your portfolio</title>
-        <description>&lt;h2 id=&quot;welcome-to-your-portfolio&quot;&gt;Welcome to your portfolio!&lt;/h2&gt;
-
-&lt;p&gt;Add some &lt;em&gt;content&lt;/em&gt; and &lt;strong&gt;awesomeness&lt;/strong&gt; using &lt;code&gt;markdown&lt;/code&gt;!&lt;/p&gt;
-</description>
-        <pubDate>Fri, 05 Jun 2015 05:34:07 -0500</pubDate>
-        <link>https://ctylerg.github.io/portfolio/update/2015/06/05/portfolio.html</link>
-        <guid isPermaLink="true">https://ctylerg.github.io/portfolio/update/2015/06/05/portfolio.html</guid>
-        
-        
-        <category>portfolio</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
         <title>Welcome to Jekyll!</title>
         <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
@@ -92,6 +75,55 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Old Skool Pool</title>
+        <description>&lt;p&gt;&lt;strong&gt;Instructions&lt;/strong&gt;
+Guess which year the Men’s NCAA tournament occurred before time runs out.&lt;/p&gt;
+
+&lt;p&gt;** Technologies Used:**&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;Postgresql database&lt;/li&gt;
+  &lt;li&gt;Sinatra&lt;/li&gt;
+  &lt;li&gt;jQuery for DOM manipulation&lt;/li&gt;
+  &lt;li&gt;nokogiri to scrape data&lt;/li&gt;
+  &lt;li&gt;Github&lt;/li&gt;
+  &lt;li&gt;Ajax&lt;/li&gt;
+  &lt;li&gt;CRUD&lt;/li&gt;
+  &lt;li&gt;Bootstrap to refine the overall look of the app&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Screenshot&lt;/strong&gt;
+ create new folder img in root and paste screen shot there
+ &lt;img src=&quot;/img/sfsdf.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Live Application&lt;/strong&gt;
+link to heroku &lt;a href=&quot;http&quot; target=&quot;_blank&quot;&gt;http&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Link to repository&lt;/strong&gt;
+ &lt;a href=&quot;github&quot; target=&quot;_blank&quot;&gt;Old Skool Pool&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jun 2015 05:34:07 -0500</pubDate>
+        <link>https://ctylerg.github.io/sinatra/javascript/jquery/github/bootstrap/nokogiri/2015/06/01/portfolio.html</link>
+        <guid isPermaLink="true">https://ctylerg.github.io/sinatra/javascript/jquery/github/bootstrap/nokogiri/2015/06/01/portfolio.html</guid>
+        
+        
+        <category>sinatra</category>
+        
+        <category>javascript</category>
+        
+        <category>jquery</category>
+        
+        <category>github</category>
+        
+        <category>bootstrap</category>
+        
+        <category>nokogiri</category>
         
       </item>
     
