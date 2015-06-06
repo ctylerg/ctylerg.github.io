@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kindlies"
-description: A collaboration of 3 developers for a social media app.  Users can sign-up, sign in and post random acts of kindness they see or do.  Users can even post pictures of these acts which will log their ocatino to a map.  Ruby o rails and Backbone.js were key components of this project.
+description: A collaboration of 3 developers for a social media app.  Users can sign-up, sign in and post random acts of kindness they see or do.  Users can even post pictures of these acts which will log their location to a map.  Ruby o rails and Backbone.js were key components of this project.
 date:   2015-05-25 10:34:07
 categories: ruby on rails backbone.js javascript jQuery base64 github skeleton geomaps
 ---
