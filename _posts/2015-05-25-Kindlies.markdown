@@ -5,6 +5,7 @@ description: A collaboration of 3 developers for a social media app.  Users can 
 date:   2015-05-25 10:34:07
 categories: ruby on rails backbone.js javascript jQuery base64 github skeleton geomaps
 ---
+
 **Instructions**
 Sign-in and post texts or pictures of random acts of kindness you do or see.
 

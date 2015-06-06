@@ -6,8 +6,8 @@
 </description>
     <link>https://ctylerg.github.io/</link>
     <atom:link href="https://ctylerg.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Jun 2015 15:02:53 -0500</pubDate>
-    <lastBuildDate>Sat, 06 Jun 2015 15:02:53 -0500</lastBuildDate>
+    <pubDate>Sat, 06 Jun 2015 15:07:41 -0500</pubDate>
+    <lastBuildDate>Sat, 06 Jun 2015 15:07:41 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -51,34 +51,6 @@
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 01 Jun 2015 05:34:07 -0500</pubDate>
-        <link>https://ctylerg.github.io/jekyll/update/2015/06/01/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://ctylerg.github.io/jekyll/update/2015/06/01/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
         <title>Old Skool Pool</title>
         <description>&lt;p&gt;&lt;strong&gt;Instructions&lt;/strong&gt;
 Guess which year the Men’s NCAA tournament occurred before time runs out.&lt;/p&gt;
@@ -109,8 +81,8 @@ link to heroku &lt;a href=&quot;http&quot; target=&quot;_blank&quot;&gt;http&lt;
  &lt;a href=&quot;github&quot; target=&quot;_blank&quot;&gt;Old Skool Pool&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Jun 2015 05:34:07 -0500</pubDate>
-        <link>https://ctylerg.github.io/sinatra/javascript/jquery/github/bootstrap/nokogiri/2015/06/01/portfolio.html</link>
-        <guid isPermaLink="true">https://ctylerg.github.io/sinatra/javascript/jquery/github/bootstrap/nokogiri/2015/06/01/portfolio.html</guid>
+        <link>https://ctylerg.github.io/sinatra/javascript/jquery/github/bootstrap/nokogiri/2015/06/01/Old-Skool-Pool.html</link>
+        <guid isPermaLink="true">https://ctylerg.github.io/sinatra/javascript/jquery/github/bootstrap/nokogiri/2015/06/01/Old-Skool-Pool.html</guid>
         
         
         <category>sinatra</category>
@@ -124,6 +96,64 @@ link to heroku &lt;a href=&quot;http&quot; target=&quot;_blank&quot;&gt;http&lt;
         <category>bootstrap</category>
         
         <category>nokogiri</category>
+        
+      </item>
+    
+      <item>
+        <title>Kindlies</title>
+        <description>&lt;p&gt;&lt;strong&gt;Instructions&lt;/strong&gt;
+Sign-in and post texts or pictures of random acts of kindness you do or see.&lt;/p&gt;
+
+&lt;p&gt;** Technologies Used:**&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ruby on Rails&lt;/li&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;Postgresql database&lt;/li&gt;
+  &lt;li&gt;jQuery for DOM manipulation&lt;/li&gt;
+  &lt;li&gt;Base 64&lt;/li&gt;
+  &lt;li&gt;Github&lt;/li&gt;
+  &lt;li&gt;Ajax&lt;/li&gt;
+  &lt;li&gt;CRUD&lt;/li&gt;
+  &lt;li&gt;Skeleton to refine the overall look of the app&lt;/li&gt;
+  &lt;li&gt;Geomaps&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Screenshot&lt;/strong&gt;
+ create new folder img in root and paste screen shot there
+ &lt;img src=&quot;/img/sfsdf.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Live Application&lt;/strong&gt;
+link to heroku &lt;a href=&quot;http&quot; target=&quot;_blank&quot;&gt;http&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Link to repository&lt;/strong&gt;
+ &lt;a href=&quot;github&quot; target=&quot;_blank&quot;&gt;Kindlies&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 May 2015 05:34:07 -0500</pubDate>
+        <link>https://ctylerg.github.io/ruby/on/rails/backbone.js/javascript/jquery/base64/github/skeleton/geomaps/2015/05/25/Kindlies.html</link>
+        <guid isPermaLink="true">https://ctylerg.github.io/ruby/on/rails/backbone.js/javascript/jquery/base64/github/skeleton/geomaps/2015/05/25/Kindlies.html</guid>
+        
+        
+        <category>ruby</category>
+        
+        <category>on</category>
+        
+        <category>rails</category>
+        
+        <category>backbone.js</category>
+        
+        <category>javascript</category>
+        
+        <category>jquery</category>
+        
+        <category>base64</category>
+        
+        <category>github</category>
+        
+        <category>skeleton</category>
+        
+        <category>geomaps</category>
         
       </item>
     
