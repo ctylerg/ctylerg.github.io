@@ -25,11 +25,11 @@ Guess which year the Men's NCAA tournament occurred before time runs out.
 <br>
 **Screenshot**
  create new folder img in root and paste screen shot there
- <img src="/img/wrong_ans.png" alt="Screenshot">
- <img src="/img/right_ans.png" alt="Screenshot">
+ <img src="/img/wrong_ans.png" alt="Incorrect">
+ <img src="/img/right_ans.png" alt="Correct">
 
  **Live Application**
-link to heroku <a href="http://whispering-ravine-2080.herokuapp.com/" target ="_blank">http</a>
+link to heroku <a href="http://whispering-ravine-2080.herokuapp.com/" target ="_blank">Running on Heroku click here</a>
 
  **Link to repository**
- <a href="https://github.com/ctylerg/independence-application" target ="_blank">Old Skool Pool</a>
+ <a href="https://github.com/ctylerg/independence-application"   target ="_blank">Old Skool Pool</a>
