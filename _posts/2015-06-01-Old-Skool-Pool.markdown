@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Old Skool Pool"
-description: I used Sinatra with plenty of javascript to create a game where users guess the past years of the NCAA men's basketball tournament
+description: I used Sinatra with plenty of javascript to create a game where users guess the past years of the NCAA men's basketball tournament.
 date:   2015-06-01 10:34:07
 categories: sinatra javascript jQuery github bootstrap nokogiri ajax postgresql
 ---
@@ -25,8 +25,9 @@ Guess which year the Men's NCAA tournament occurred before time runs out.
 <br>
 **Screenshot**
  create new folder img in root and paste screen shot there
- <img src="/img/wrong_ans.png" alt="Incorrect">
- <img src="/img/right_ans.png" alt="Correct">
+ <img src="/images/wrong_ans.png" alt="Incorrect">
+
+ <img src="/images/right_ans.png" alt="Correct">
 
  **Live Application**
 link to heroku <a href="http://whispering-ravine-2080.herokuapp.com/" target ="_blank">Running on Heroku click here</a>
