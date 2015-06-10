@@ -2,7 +2,7 @@
 layout: post
 title:  "Tasker"
 description: A MEAN stack app to help you make a to do list.  Don't worry it won't nag you...yet.
-date:   2015-05-25 10:34:07
+date:   2015-05-23 10:34:07
 categories: MEAN stack angular.js mongoDB express.js node.js bootstrap javascript jQuery
 ---
 
