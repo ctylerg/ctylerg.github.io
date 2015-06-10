@@ -6,8 +6,8 @@
 </description>
     <link>https://ctylerg.github.io/</link>
     <atom:link href="https://ctylerg.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Jun 2015 18:41:41 -0500</pubDate>
-    <lastBuildDate>Tue, 09 Jun 2015 18:41:41 -0500</lastBuildDate>
+    <pubDate>Tue, 09 Jun 2015 19:10:32 -0500</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2015 19:10:32 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -63,6 +63,59 @@ link to heroku &lt;a href=&quot;http://whispering-ravine-2080.herokuapp.com/&quo
         <category>ajax</category>
         
         <category>postgresql</category>
+        
+      </item>
+    
+      <item>
+        <title>Tasker</title>
+        <description>&lt;p&gt;&lt;strong&gt;Instructions&lt;/strong&gt;
+Make a to do list to help organize your life.&lt;/p&gt;
+
+&lt;p&gt;** Technologies Used:**&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;MEAN stack&lt;/li&gt;
+  &lt;li&gt;Mongo database&lt;/li&gt;
+  &lt;li&gt;Angular.js&lt;/li&gt;
+  &lt;li&gt;express.js&lt;/li&gt;
+  &lt;li&gt;node.js&lt;/li&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;jQuery&lt;/li&gt;
+  &lt;li&gt;Bootstrap&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Screenshot&lt;/strong&gt;
+ &lt;img src=&quot;/images/Doing_tasks.png&quot; alt=&quot;To do&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Live Application&lt;/strong&gt;
+link to heroku N/A&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Link to repository&lt;/strong&gt;
+ &lt;a href=&quot;https://github.com/ctylerg/Tasker&quot; target=&quot;_blank&quot;&gt;Tasker&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 May 2015 05:34:07 -0500</pubDate>
+        <link>https://ctylerg.github.io/mean/stack/angular.js/mongodb/express.js/node.js/bootstrap/javascript/jquery/2015/05/25/Tasker.html</link>
+        <guid isPermaLink="true">https://ctylerg.github.io/mean/stack/angular.js/mongodb/express.js/node.js/bootstrap/javascript/jquery/2015/05/25/Tasker.html</guid>
+        
+        
+        <category>mean</category>
+        
+        <category>stack</category>
+        
+        <category>angular.js</category>
+        
+        <category>mongodb</category>
+        
+        <category>express.js</category>
+        
+        <category>node.js</category>
+        
+        <category>bootstrap</category>
+        
+        <category>javascript</category>
+        
+        <category>jquery</category>
         
       </item>
     
