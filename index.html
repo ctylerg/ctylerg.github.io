@@ -1,25 +1,73 @@
----
-layout: default
----
+<html>
+  <head>
+    <title>Tyler Geneva</title>
+    <meta name="viewport" content="initial-scale=1">
+    <link rel="stylesheet" href="main.css" type="text/css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
+    <script type="text/javascript" src="script.js">
+    </script>
+  </head>
 
-<div class="home">
+  <body>
+    <nav>
+     <ul id="nav-ul">
+       <li><a href="#section-1">About</a></li>
+       <li><a href="#section-2">Portfolio</a></li>
+       <li><a href="#section-3">Contact</a></li>
 
-  <h1 class="page-heading">Projects</h1>
+     </ul>
+    </nav>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <section id="section-1">
+      <div id="skills" class="split">
+        <h1>full stack web developer</h1><br><br>
+        <h2 id="skill">skills</h2><br>
+        <ul>
+          <li class="cando"><h3>Web Design</h3></li><br>
+          <li class="cando"><h3>Ruby on Rails</h3></li><br>
+          <li class="cando"><h3>Sinatra</h3></li><br>
+          <li class="cando"><h3>SQL</h3></li><br>
+          <li class="cando"><h3>API's</h3></li><br>
+          <li class="cando"><h3>JavaScript</h3></li>
+        </ul>
+      </div>
+      <div id="pic" class="split">
+      </div>
+    </section>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <span class="post-meta">{{ post.description | date: "%b %-d, %Y" }}</span>
+    <section id="section-2">
+      <div id="pieceOne" class="portPieces">
+        <h1><a id="OSP" href="https://whispering-ravine-2080.herokuapp.com/" target="_blank">Old Skool Pool</a></h1><br><br>
+        <h4 id="oldie" class="desc">A fun game where you try to guess the year of the NCAAA mens' basketball tournament.</h4>
+      </div>
+      <div id="pieceTwo" class="portPieces">
+        <h1><a id="kindlies" href="https://acts-of-kindness.herokuapp.com/" target="_blank">Kindlies</a></h1><br><br>
+        <h4 id="kindly" class="desc">A socially conscious social media app.  Users can sign-up, log-in, and post texts and pictures of random acts of kindess.</h4>
+      </div>
+      <div id="pieceThree" class="portPieces">
+        <h1><a id="squeaker" href="https://squeakerapp.herokuapp.com/" target="_blank">
+        Squeaker</a></h1><br><br>
+        <h4 id="sqk" class="desc">A social media app.  It's twitter-like.</h4>
+      </div>
+    </section>
 
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+    <section id="section-3">
+      <h1>Contact</h1>
+        <h2 id="contact">For questions and answers please contact me  </h2>
+        <div>
+          <a id="mail" href="mailto:tgeneva@gmail.com" target="_blank">
+            <img src="images/1435195472_common_email_envelope_mail_.png">
+          </a>
+          <a href="https://www.linkedin.com/in/tylergeneva" target="_blank">
+            <img  id="lin" src="images/1435197565_linkedin-2048-black.png"> </a>
+          <a href="http://ctylerg.github.io/" target="_blank">
+            <img id="github" src="images/github.png"/></a>
+        </div>
+    </section>
+    <footer>
+      <div class="footer">
+        <h4>&copy 2015 ctylerg</h4>
+      </div>
+    </footer>
+  </body>
+</html>
